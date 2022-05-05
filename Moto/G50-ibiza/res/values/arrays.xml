@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="config_autoBrightnessDisplayValuesNits">
+        <item>3</item>
+        <item>10</item>
+        <item>20</item>
+        <item>50</item>
+        <item>70</item>
+        <item>85</item>
+        <item>110</item>
+        <item>130</item>
+        <item>150</item>
+        <item>180</item>
+        <item>180</item>
+        <item>180</item>
+        <item>180</item>
+        <item>225</item>
+        <item>270</item>
+        <item>300</item>
+        <item>315</item>
+        <item>330</item>
+        <item>350</item>
+        <item>380</item>
+        <item>410</item>
+        <item>410</item>
+        <item>410</item>
+        <item>410</item>
+    </array>
+    <array name="config_autoBrightnessLcdBacklightValues">
+        <item>10</item>
+        <item>20</item>
+        <item>40</item>
+        <item>70</item>
+        <item>110</item>
+        <item>160</item>
+        <item>200</item>
+        <item>255</item>
+    </array>
+    <array name="config_autoBrightnessLevels">
+        <item>1</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+        <item>29</item>
+        <item>50</item>
+        <item>90</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>300</item>
+        <item>400</item>
+        <item>500</item>
+        <item>800</item>
+        <item>1000</item>
+        <item>1300</item>
+        <item>1500</item>
+        <item>1600</item>
+        <item>1800</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>8000</item>
+    </array>
+    <array name="config_availableColorModes">
+        <item>@null</item>
+        <item>1</item>
+        <item>2</item>
+    </array>
+    <array name="config_biometric_sensors">
+        <item>0:2:15</item>
+    </array>
+    <array name="config_defaultPinnerServiceFiles">
+        <item>/system/framework/framework.jar</item>
+        <item>/system/framework/services.jar</item>
+        <item>/system/framework/arm/boot-framework.oat</item>
+    </array>
+    <array name="config_highRefreshRateBlacklist">
+        <item>com.maxgames.stickwarlegacy</item>
+    </array>
+    <array name="config_keyboardTapVibePattern">
+        <item>@null</item>
+        <item>26</item>
+    </array>
+    <array name="config_longPressVibePattern">
+        <item>@null</item>
+        <item>43</item>
+    </array>
+    <array name="config_mobile_tcp_buffers">
+        <item>nr:2097152,6291456,16777216,512000,2097152,8388608</item>
+        <item>lte:524288,1048576,8388608,262144,524288,4194304</item>
+        <item>lte_ca:1048576,2097152,16777216,524288,1048576,8388608</item>
+        <item>umts:131072,262144,1452032,4096,16384,399360</item>
+        <item>hspa:131072,262144,1452032,4096,16384,399360</item>
+        <item>hsupa:131072,262144,1452032,4096,16384,399360</item>
+        <item>hsdpa:131072,262144,1452032,4096,16384,399360</item>
+        <item>hspap:131072,262144,1452032,4096,16384,399360</item>
+        <item>edge:16384,32768,131072,4096,16384,65536</item>
+        <item>gprs:4096,8192,24576,4096,8192,24576</item>
+        <item>evdo:131072,262144,1048576,4096,16384,524288</item>
+        <item>ehrpd:4094,87380,1048576,4096,16384,262144</item>
+    </array>
+    <array name="config_oemUsbModeOverride">
+        <item>bp-tools:mtp:diag,serial,rmnet:mtp</item>
+        <item>bp-tools:mtp,adb:diag,serial,rmnet,adb:mtp,adb</item>
+        <item>bp-tools:adb:diag,serial,rmnet,adb:adb</item>
+        <item>bp-tools:ptp:diag,serial,rmnet:ptp</item>
+        <item>bp-tools:ptp,adb:diag,serial,rmnet,adb:ptp,adb</item>
+        <item>bp-tools:rndis:rndis,diag,serial:mtp</item>
+        <item>bp-tools:rndis,adb:rndis,diag,serial,adb:mtp,adb</item>
+        <item>qcom:adb:diag,serial_cdev,rmnet,dpl,qdss,adb:adb</item>
+        <item>qcom:mtp:diag,serial_cdev,rmnet,dpl,qdss:mtp</item>
+        <item>qcom:mtp,adb:diag,serial_cdev,rmnet,dpl,qdss,adb:mtp,adb</item>
+        <item>qcom:ptp:diag,serial_cdev,rmnet,dpl,qdss:ptp</item>
+        <item>qcom:ptp,adb:diag,serial_cdev,rmnet,dpl,qdss,adb:ptp,adb</item>
+        <item>qcom:rndis:rndis,diag,serial_cdev,dpl,qdss:mtp</item>
+        <item>qcom:rndis,adb:rndis,diag,serial_cdev,dpl,qdss,adb:mtp,adb</item>
+        <item>mot-factory:mtp:diag,usbnet:mtp</item>
+        <item>mot-factory:mtp,adb:diag,usbnet,adb:mtp,adb</item>
+        <item>mot-factory:adb:diag,usbnet,adb:adb</item>
+        <item>mot-factory:ptp:diag,usbnet:ptp</item>
+        <item>mot-factory:ptp,adb:diag,usbnet,adb:ptp,adb</item>
+    </array>
+    <array name="config_screenBrightnessBacklight">
+        <item>@null</item>
+        <item>2</item>
+        <item>6</item>
+        <item>12</item>
+        <item>31</item>
+        <item>44</item>
+        <item>53</item>
+        <item>68</item>
+        <item>81</item>
+        <item>93</item>
+        <item>112</item>
+        <item>140</item>
+        <item>168</item>
+        <item>187</item>
+        <item>196</item>
+        <item>205</item>
+        <item>218</item>
+        <item>236</item>
+        <item>255</item>
+    </array>
+    <array name="config_screenBrightnessNits">
+        <item>@null</item>
+        <item>3</item>
+        <item>10</item>
+        <item>20</item>
+        <item>50</item>
+        <item>70</item>
+        <item>85</item>
+        <item>110</item>
+        <item>130</item>
+        <item>150</item>
+        <item>180</item>
+        <item>225</item>
+        <item>270</item>
+        <item>300</item>
+        <item>315</item>
+        <item>330</item>
+        <item>350</item>
+        <item>380</item>
+        <item>410</item>
+    </array>
+    <array name="config_tether_bluetooth_regexs">
+        <item>bnep\\d</item>
+        <item>bt-pan</item>
+    </array>
+    <array name="config_tether_dhcp_range">
+        <item>192.168.42.2</item>
+        <item>192.168.42.254</item>
+        <item>192.168.43.2</item>
+        <item>192.168.43.254</item>
+        <item>192.168.44.2</item>
+        <item>192.168.44.254</item>
+        <item>192.168.45.2</item>
+        <item>192.168.45.254</item>
+        <item>192.168.46.2</item>
+        <item>192.168.46.254</item>
+        <item>192.168.47.2</item>
+        <item>192.168.47.254</item>
+        <item>192.168.48.2</item>
+        <item>192.168.48.254</item>
+        <item>192.168.49.2</item>
+        <item>192.168.49.254</item>
+        <item>192.168.50.2</item>
+        <item>192.168.50.254</item>
+        <item>192.168.51.2</item>
+        <item>192.168.51.254</item>
+    </array>
+    <array name="config_tether_upstream_types">
+        <item>@null</item>
+        <item>1</item>
+        <item>5</item>
+        <item>7</item>
+    </array>
+    <array name="config_tether_usb_regexs">
+        <item>rndis\\d</item>
+    </array>
+    <array name="config_virtualKeyVibePattern">
+        <item>@null</item>
+        <item>30</item>
+    </array>
+    <array name="networkAttributes">
+        <item>wifi,1,1,1,-1,true</item>
+        <item>mobile,0,0,0,-1,true</item>
+        <item>mobile_mms,2,0,4,60000,true</item>
+        <item>mobile_supl,3,0,2,60000,true</item>
+        <item>mobile_dun,4,0,2,60000,true</item>
+        <item>mobile_hipri,5,0,3,60000,true</item>
+        <item>mobile_fota,10,0,2,60000,true</item>
+        <item>mobile_ims,11,0,2,60000,true</item>
+        <item>mobile_cbs,12,0,2,60000,true</item>
+        <item>bluetooth,7,7,2,-1,true</item>
+        <item>mobile_emergency,15,0,5,-1,true</item>
+    </array>
+    <array name="radioAttributes">
+        <item>1,1</item>
+        <item>0,1</item>
+        <item>7,1</item>
+        <item>9,1</item>
+    </array>
+</resources>

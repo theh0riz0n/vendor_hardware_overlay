@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_autoBrightnessBrighteningLightDebounce">500</integer>
+    <integer name="config_autoBrightnessDarkeningLightDebounce">500</integer>
+    <integer name="config_cameraLaunchGestureSensorType">65540</integer>
+    <integer name="config_defaultMinRefreshRate">60</integer>
+    <integer name="config_defaultPeakRefreshRate">90</integer>
+    <integer name="config_defaultRefreshRate">0</integer>
+    <integer name="config_multiuserMaximumUsers">4</integer>
+    <integer name="config_screenBrightnessDark">2</integer>
+    <integer name="config_screenBrightnessDim">2</integer>
+    <integer name="config_screenBrightnessSettingDefault">112</integer>
+    <integer name="config_screenBrightnessSettingMinimum">2</integer>
+</resources>
