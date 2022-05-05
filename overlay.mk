@@ -83,6 +83,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-moto-g8power \
 	treble-overlay-moto-hiphi \
 	treble-overlay-moto-hiphi-systemui \
+	treble-overlay-moto-ibiza \
 	treble-overlay-moto-nio \
 	treble-overlay-moto-one \
 	treble-overlay-moto-one-action \
