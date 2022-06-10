@@ -57,6 +57,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-lenovo-s5pro \
 	treble-overlay-lenovo-z5 \
 	treble-overlay-lg-g7 \
+	treble-overlay-lg-phoenix_lao_com-phoenix_sprout \
 	treble-overlay-lg-v40 \
 	treble-overlay-lg-velvet \
 	treble-overlay-lge-mfh505glm \
@@ -142,6 +143,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-a20s \
 	treble-overlay-samsung-a20s-systemui \
 	treble-overlay-samsung-a30 \
+	treble-overlay-samsung-a33 \
+	treble-overlay-samsung-a33-systemui \
 	treble-overlay-samsung-a40 \
 	treble-overlay-samsung-a50 \
 	treble-overlay-samsung-a51 \
@@ -155,6 +158,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-a70 \
 	treble-overlay-samsung-a71 \
 	treble-overlay-samsung-a80 \
+	treble-overlay-samsung-a82xq \
+	treble-overlay-samsung-a82xq-systemui \
 	treble-overlay-samsung-a9 \
 	treble-overlay-samsung-d1q \
 	treble-overlay-samsung-d1q-systemui \
@@ -186,6 +191,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-sony-J9110 \
 	treble-overlay-sony-XZ3 \
 	treble-overlay-sony-pdx206 \
+	treble-overlay-sony-pdx206-kddi \
 	treble-overlay-sony-pdx213 \
 	treble-overlay-sony-pdx213-systemui \
 	treble-overlay-sprd-ims \
